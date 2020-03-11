@@ -1,1 +1,1 @@
-Public places for code and script
+Public directory for code and script
